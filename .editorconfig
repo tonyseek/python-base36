@@ -1,0 +1,14 @@
+# http://editorconfig.org
+
+root = true
+
+[*]
+charset = utf-8
+
+[*.py]
+indent_style = space
+indent_size = 4
+
+[*.c]
+indent_style = space
+indent_size = 4
