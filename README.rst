@@ -1,3 +1,5 @@
+|Build Status| |Coverage Status| |PyPI Version| |Wheel Status|
+
 Base36 in Python
 ================
 
@@ -35,3 +37,17 @@ Contributes
 
 You can send a pull reueqst on
 `GitHub <https://github.com/tonyseek/python-base36/pulls>`_.
+
+
+.. |Build Status| image:: https://img.shields.io/travis/tonyseek/python-base36.svg?style=flat
+   :target: https://travis-ci.org/tonyseek/python-base36
+   :alt: Build Status
+.. |Coverage Status| image:: https://img.shields.io/coveralls/tonyseek/python-base36.svg?style=flat
+   :target: https://coveralls.io/r/tonyseek/python-base36
+   :alt: Coverage Status
+.. |Wheel Status| image:: https://pypip.in/wheel/base36/badge.svg?style=flat
+   :target: https://warehouse.python.org/project/base36
+   :alt: Wheel Status
+.. |PyPI Version| image:: https://img.shields.io/pypi/v/base36.svg?style=flat
+   :target: https://pypi.python.org/pypi/base36
+   :alt: PyPI Version
