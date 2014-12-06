@@ -5,9 +5,9 @@ __version__ = '0.1.0'
 __all__ = ['dumps', 'loads']
 
 
-if sys.version_info.major == 2:
+if sys.version_info.major == 2:  # pragma: no cover
     integer_types = (int, long)
-else:
+else:  # pragma: no cover
     integer_types = (int,)
 
 

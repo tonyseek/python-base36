@@ -12,3 +12,8 @@ def test_dumps_and_loads(number, value):
     assert base36.dumps(-number) == '-' + value
     assert base36.loads(value) == number
     assert base36.loads('-' + value) == -number
+
+
+def test_failure():
+    with pytest.raises(TypeError):
+        base36.dumps('wrong type')
