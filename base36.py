@@ -36,7 +36,7 @@ def dumps(number):
 
 
 def loads(value):
-    """Loads a base36 string and parse it into 10-based interger.
+    """Loads a base36 string and parse it into 10-based integer.
 
     :param value: the base36 string.
     :returns: the parsed integer.
