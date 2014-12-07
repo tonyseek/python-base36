@@ -32,7 +32,7 @@ def dumps(number):
         number, index = divmod(number, len(alphabet))
         value = alphabet[index] + value
 
-    return value
+    return value or '0'
 
 
 def loads(value):
