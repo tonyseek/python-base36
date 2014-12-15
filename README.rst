@@ -9,7 +9,7 @@ Yet another implementation for the positional numeral system using 36 as the rad
 Installation
 ------------
 
-.. code-block:: shell
+::
 
     pip install base36
 
@@ -17,7 +17,7 @@ Installation
 Usage
 -----
 
-.. code-block:: python
+::
 
     import base36
 
