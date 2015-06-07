@@ -45,7 +45,7 @@ You can send a pull reueqst on
 .. |Coverage Status| image:: https://img.shields.io/coveralls/tonyseek/python-base36.svg?style=flat
    :target: https://coveralls.io/r/tonyseek/python-base36
    :alt: Coverage Status
-.. |Wheel Status| image:: https://img.shields.io/pypi/wheel/base36/badge.svg?style=flat
+.. |Wheel Status| image:: https://img.shields.io/pypi/wheel/base36.svg?style=flat
    :target: https://warehouse.python.org/project/base36
    :alt: Wheel Status
 .. |PyPI Version| image:: https://img.shields.io/pypi/v/base36.svg?style=flat
